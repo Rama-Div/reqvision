@@ -1,0 +1,5 @@
+spacy 
+streamlit
+pandas
+fastapi
+uvicorn
