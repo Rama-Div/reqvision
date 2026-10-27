@@ -1,5 +1,2 @@
-spacy 
-streamlit
-pandas
-fastapi
-uvicorn
+   fastapi
+   uvicorn
